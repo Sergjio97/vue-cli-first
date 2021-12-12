@@ -8,6 +8,8 @@
 h1 {
     text-align: center;
     padding-top: 60px;
+    padding-bottom: 60px;
+    color: rgb(0, 0, 43);
 }
 
 </style>
